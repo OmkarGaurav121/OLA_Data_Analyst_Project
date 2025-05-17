@@ -143,3 +143,34 @@ The dashboard was designed in Power BI to deliver a clear and interactive view o
 - Rating ranges from 3.98 to 4.01 across all types
 
 ![Ratings View](Ratings.png)
+
+--
+
+⚙️ How to Run This Project
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/OLA_Data_Analyst_Project.git
+
+2. Run SQL queries in MySQL Workbench
+
+3. Use Excel for raw data view & filtering
+
+4. Explore Power BI dashboard using .pbix file
+
+--
+
+📌 Project Insights
+🛵 Most rides booked were Prime Sedan and Auto
+
+💳 UPI and Cash were the most used payment modes
+
+😓 Most common cancellation reasons:
+
+Driver not moving toward pickup (customer)
+
+Personal issues (driver)
+
+🔥 Peak ride volumes were observed on weekends and match days
+
+📈 Revenue spikes observed during high-demand periods
