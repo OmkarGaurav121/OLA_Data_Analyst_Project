@@ -161,16 +161,25 @@ git clone https://github.com/yourusername/OLA_Data_Analyst_Project.git
 --
 
 📌 Project Insights
+--
 🛵 Most rides booked were Prime Sedan and Auto
-
+--
 💳 UPI and Cash were the most used payment modes
-
+--
 😓 Most common cancellation reasons:
-
-Driver not moving toward pickup (customer)
-
-Personal issues (driver)
-
+--
+. Driver not moving toward pickup (customer)
+--
+. Personal issues (driver)
+--
 🔥 Peak ride volumes were observed on weekends and match days
-
+--
 📈 Revenue spikes observed during high-demand periods
+--
+
+
+📬 Contact
+For feedback, collaboration, or project ideas:
+
+📧omkargaurav11@gmail.com
+🔗 LinkedIn
