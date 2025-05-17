@@ -93,3 +93,53 @@ FROM bookings WHERE Booking_Status = 'Success';
 *(More SQL queries can be found in the `/SQL` folder.)*  
 
 ---
+
+## 📊 Power BI Dashboard
+
+The dashboard was designed in Power BI to deliver a clear and interactive view of ride booking activity for OLA during a 1-month period in Bengaluru. Each page of the dashboard focuses on a different analytical theme, optimized for business insights.
+
+---
+
+### 🟢 Overall View  
+- Total Bookings & Revenue KPIs  
+- Booking Status Breakdown (Success, Canceled, Driver Not Found)  
+- Ride Volume Over Time (trend chart)
+
+![Overall Dashboard](Overall.png)
+
+---
+
+### 🚗 Vehicle Type Analysis  
+- Booking value per vehicle type  
+- Success vs Total Booking Value  
+- Avg. and Total Distance Traveled by type
+
+![Vehicle Type Analysis](VehicleType.png)
+
+---
+
+### ❌ Cancellation Insights  
+- Customer and Driver Cancellation Breakdown  
+- Most frequent cancellation reasons  
+- Succeeded vs Canceled ride count  
+- Overall Cancellation Rate
+
+![Cancellation Insights](Cancellation.png)
+
+---
+
+### 💰 Revenue Overview  
+- Revenue by Payment Method (Cash, UPI, etc.)  
+- Top 5 Customers by Booking Value  
+- Daily Ride Distance & Payment Trends
+
+![Revenue View](Revenue.png)
+
+---
+
+### ⭐ Ratings Comparison  
+- Driver Ratings per Vehicle Type  
+- Customer Ratings per Vehicle Type  
+- Rating ranges from 3.98 to 4.01 across all types
+
+![Ratings View](Ratings.png)
