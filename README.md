@@ -86,7 +86,7 @@ SELECT SUM(Booking_Value) AS total_revenue
 FROM bookings WHERE Booking_Status = 'Success';
 ```
 
-*📁 [Click here to view all 10 SQL Queries](./SQL/all_sql_queries_combined(1).sql)*
+*📁 [Click here to view all 10 SQL Queries](./SQL/all_sql_queries_combined.sql)*
 
 ---
 
