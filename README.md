@@ -192,7 +192,7 @@ Here’s how I plan to take this project further:
 - 👨‍💼 **Name:** Omkar Gaurav  
 - 📧 **Email:** [omkargaurav11@gmail.com](mailto:omkargaurav11@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/omkar-gaurav-1508b6303](https://www.linkedin.com/in/omkar-gaurav-1508b6303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 🖥️ **GitHub:** [github.com/yourusername](https://github.com/omkargaurav121)
+- 🖥️ **GitHub:** [github.com/omkargaurav121](https://github.com/omkargaurav121)
 
 ---
 ---
