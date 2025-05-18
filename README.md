@@ -3,10 +3,6 @@
 ## 📌 Project Overview  
 This project performs an end-to-end data analysis of **Ola ride bookings**, uncovering actionable business insights. It involves **data cleaning**, **SQL querying**, and **interactive visualizations** using **Power BI**, showcasing customer behavior, revenue trends, and operational inefficiencies.  
 
-## 👨‍💻 About the Developer  
-**Omkar Gaurav**  
-🎓 Aspiring Data Analyst | Skilled in SQL, Power BI, Excel  
-📫 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/yourusername) • 📧 your.email@example.com
 
 ---
 
